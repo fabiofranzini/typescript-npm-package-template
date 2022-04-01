@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# production
+dist
+docs
+
+# debug
+npm-debug.log*
+
+# parcel
+.parcel-cache
+
